@@ -20,8 +20,8 @@ frameworks, and ongoing projects.
 
 ## Members
 
-- [@username1](https://github.com/username1) — Mathematics
-- [@username2](https://github.com/username2) — Electrical & Electronics Engineering
+- [@username1](https://github.com/EgeS1907) — Mathematics
+- [@username2](https://github.com/3RAV0) — Electrical & Electronics Engineering
 
 ## Contact
 
